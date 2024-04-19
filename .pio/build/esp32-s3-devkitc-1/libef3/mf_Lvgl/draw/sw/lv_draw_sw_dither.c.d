@@ -1,0 +1,29 @@
+.pio/build/esp32-s3-devkitc-1/libef3/mf_Lvgl/draw/sw/lv_draw_sw_dither.c.o: \
+ lib/mf_Lvgl/src/draw/sw/lv_draw_sw_dither.c \
+ lib/mf_Lvgl/src/draw/sw/lv_draw_sw_dither.h \
+ lib/mf_Lvgl/src/draw/sw/../../core/lv_obj_pos.h \
+ lib/mf_Lvgl/src/draw/sw/../../core/../misc/lv_area.h \
+ lib/mf_Lvgl/src/draw/sw/../../core/../misc/../lv_conf_internal.h \
+ lib/mf_Lvgl/src/draw/sw/../../core/../misc/../lv_conf_kconfig.h \
+ C:/Users/kubak/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/qio_qspi/include/sdkconfig.h \
+ C:/Users/kubak/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include/esp_attr.h \
+ lib/mf_Lvgl/src/draw/sw/lv_draw_sw_gradient.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/lv_color.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/../lv_conf_internal.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/lv_assert.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/lv_log.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/lv_types.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/lv_mem.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/lv_math.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/lv_style.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/../font/lv_font.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/../font/../lv_conf_internal.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/../font/lv_symbol_def.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/../font/../misc/lv_area.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/lv_color.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/lv_area.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/lv_anim.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/lv_txt.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/lv_printf.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/lv_bidi.h \
+ lib/mf_Lvgl/src/draw/sw/../../misc/lv_style_gen.h

@@ -1,0 +1,39 @@
+.pio/build/esp32-s3-devkitc-1/libef3/mf_Lvgl/font/lv_font_fmt_txt.c.o: \
+ lib/mf_Lvgl/src/font/lv_font_fmt_txt.c lib/mf_Lvgl/src/font/lv_font.h \
+ lib/mf_Lvgl/src/font/../lv_conf_internal.h \
+ lib/mf_Lvgl/src/font/../lv_conf_kconfig.h \
+ C:/Users/kubak/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/qio_qspi/include/sdkconfig.h \
+ C:/Users/kubak/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include/esp_attr.h \
+ lib/mf_Lvgl/src/font/lv_symbol_def.h \
+ lib/mf_Lvgl/src/font/../misc/lv_area.h \
+ lib/mf_Lvgl/src/font/../misc/../lv_conf_internal.h \
+ lib/mf_Lvgl/src/font/lv_font_fmt_txt.h \
+ lib/mf_Lvgl/src/font/../misc/lv_assert.h \
+ lib/mf_Lvgl/src/font/../misc/lv_log.h \
+ lib/mf_Lvgl/src/font/../misc/lv_types.h \
+ lib/mf_Lvgl/src/font/../misc/lv_mem.h \
+ lib/mf_Lvgl/src/font/../misc/lv_types.h \
+ lib/mf_Lvgl/src/font/../misc/lv_gc.h \
+ lib/mf_Lvgl/src/font/../misc/lv_ll.h \
+ lib/mf_Lvgl/src/font/../misc/lv_timer.h \
+ lib/mf_Lvgl/src/font/../misc/../hal/lv_hal_tick.h \
+ lib/mf_Lvgl/src/font/../misc/../hal/../lv_conf_internal.h \
+ lib/mf_Lvgl/src/font/../misc/../draw/lv_img_cache.h \
+ lib/mf_Lvgl/src/font/../misc/../draw/lv_img_decoder.h \
+ lib/mf_Lvgl/src/font/../misc/../draw/../lv_conf_internal.h \
+ lib/mf_Lvgl/src/font/../misc/../draw/lv_img_buf.h \
+ lib/mf_Lvgl/src/font/../misc/../draw/../misc/lv_color.h \
+ lib/mf_Lvgl/src/font/../misc/../draw/../misc/../lv_conf_internal.h \
+ lib/mf_Lvgl/src/font/../misc/../draw/../misc/lv_assert.h \
+ lib/mf_Lvgl/src/font/../misc/../draw/../misc/lv_math.h \
+ lib/mf_Lvgl/src/font/../misc/../draw/../misc/lv_types.h \
+ lib/mf_Lvgl/src/font/../misc/../draw/../misc/lv_area.h \
+ lib/mf_Lvgl/src/font/../misc/../draw/../misc/lv_fs.h \
+ lib/mf_Lvgl/src/font/../misc/../draw/../misc/lv_types.h \
+ lib/mf_Lvgl/src/font/../misc/../draw/lv_draw_mask.h \
+ lib/mf_Lvgl/src/font/../misc/../draw/../misc/lv_math.h \
+ lib/mf_Lvgl/src/font/../misc/../core/lv_obj_pos.h \
+ lib/mf_Lvgl/src/font/../misc/../core/../misc/lv_area.h \
+ lib/mf_Lvgl/src/font/../misc/lv_log.h \
+ lib/mf_Lvgl/src/font/../misc/lv_utils.h \
+ lib/mf_Lvgl/src/font/../misc/lv_mem.h
